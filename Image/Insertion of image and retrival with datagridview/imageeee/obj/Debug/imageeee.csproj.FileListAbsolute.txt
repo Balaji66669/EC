@@ -1,0 +1,10 @@
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\bin\Debug\imageeee.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\bin\Debug\imageeee.exe
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\bin\Debug\imageeee.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.Form1.resources
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.Properties.Resources.resources
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.csproj.GenerateResource.Cache
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.exe
+c:\users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.pdb
+C:\Users\balaj\documents\visual studio 2017\Projects\imageeee\imageeee\obj\Debug\imageeee.Form2.resources
