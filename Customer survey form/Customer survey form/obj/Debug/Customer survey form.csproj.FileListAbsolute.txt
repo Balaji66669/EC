@@ -1,0 +1,9 @@
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\bin\Debug\Customer survey form.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\bin\Debug\Customer survey form.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\bin\Debug\Customer survey form.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer survey form.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer_survey_form.Form1.resources
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer_survey_form.Properties.Resources.resources
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer survey form.csproj.GenerateResource.Cache
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer survey form.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Customer survey form\Customer survey form\obj\Debug\Customer survey form.pdb

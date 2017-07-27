@@ -1,0 +1,14 @@
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\Toupdate in db afetr billing.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\Toupdate in db afetr billing.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\Toupdate in db afetr billing.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate in db afetr billing.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate_in_db_afetr_billing.Form1.resources
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate_in_db_afetr_billing.Form2.resources
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate_in_db_afetr_billing.Properties.Resources.resources
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate in db afetr billing.csproj.GenerateResource.Cache
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate in db afetr billing.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\obj\Debug\Toupdate in db afetr billing.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\itextsharp.dll
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\itextsharp.pdfa.dll
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\itextsharp.xtra.dll
+c:\users\balaj\documents\visual studio 2017\Projects\Toupdate in db afetr billing\Toupdate in db afetr billing\bin\Debug\itextsharp.xml

@@ -1,0 +1,11 @@
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\bin\Debug\progressbaranddate.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\bin\Debug\progressbaranddate.exe
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\bin\Debug\progressbaranddate.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.Form1.resources
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.Properties.Resources.resources
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.csproj.GenerateResource.Cache
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.exe
+c:\users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.pdb
+C:\Users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\obj\Debug\progressbaranddate.Form2.resources
+C:\Users\balaj\documents\visual studio 2017\Projects\progressbaranddate\progressbaranddate\bin\Debug\MaterialSkin.dll
